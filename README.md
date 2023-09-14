@@ -3,6 +3,13 @@
 # codedex
 Codedex exercises
 
-# TODO
-Cambiar este readme para que tenga una estrcutura parecida a esta:
-[https://github.com/mrpandat/my-first-github-repo](https://github.com/mrpandat/my-first-github-repo)
+# Get Started
+
+* Summary of set up
+* Configuration
+* Dependencies
+* Database configuration
+* How to run tests
+* Deployment instructions
+
+# How to contribute
